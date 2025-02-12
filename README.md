@@ -29,3 +29,10 @@
 Компоненты `App.js`, `Footer.js`, `Header.js`,`Main.js` переносятся в модуль `host`.
 
 Аналогичная логика применена к переносу CSS-файлов стилей.
+
+
+---
+## Задание 2
+
+
+https://drive.google.com/file/d/1y6HsQLjhdHp8ank-QpMXsnfDwO5uC9QB/view?usp=sharing
